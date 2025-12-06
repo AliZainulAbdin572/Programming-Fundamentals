@@ -30,10 +30,10 @@ To practice printing shapes and using escape sequences like for new lines in C++
 
 ## Output
 ## *
-## *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
-## *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
-## *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
-## *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*
+## *&nbsp;*
+## *&nbsp;*&nbsp;*
+## *&nbsp;*&nbsp;*&nbsp;*
+## *&nbsp;*&nbsp;*&nbsp;*&nbsp;*
 ## Learning Outcomes
 
 Learn how to build patterns using console output
