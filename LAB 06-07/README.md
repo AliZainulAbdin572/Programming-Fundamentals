@@ -56,53 +56,7 @@ Wrong Password.
 * Practice combined conditions (e.g., correct username but incorrect password).
 
 ---
-
-# ⭐ Task 4: Loan Eligibility Checker (Nested if)
-
-## 🔍 Overview
-This program checks a person's eligibility for a loan based on two criteria: *age* (≥ 18) and *annual income* (≥ $30,000).  
-It uses a *nested if* structure to ensure the income check only occurs if the age requirement is met.
-
-## 🎯 Objective
-To practice using *nested if statements* where the second condition is dependent on the first condition being true.
-
-## ✔️ Output
-Enter age: 25  
-Enter annual income: 45000  
-Congratulations! You are eligible for a loan.
-
-## ✍️ Learning Outcomes
-* Use *nested if* logic for sequential, dependent checks.
-* Implement multi-level decision-making based on multiple criteria.
-* Understand the flow of control in nested conditional blocks.
-
----
-
-# ⭐ Task 5: Role-Based Access System (Nested if & if-else if-else)
-
-## 🔍 Overview
-This program combines conditional structures:  
-* A nested structure for *Authentication* (username "admin," password "password123").  
-* After success, an if-else if-else ladder determines *Role-Based Access* ("Admin", "Guest", or No Access).
-
-## 🎯 Objective
-To combine *nested if* (for authentication) and the *if-else if-else* ladder (for role-based access) in one application.
-
-## ✔️ Output
-Enter username: admin  
-Enter password: password123  
-Enter role: Guest  
-Authentication Successful!  
-Limited Access
-
-## ✍️ Learning Outcomes
-* Combine different control structures (nested if and if-else if-else).
-* Handle multi-step security and permission logic.
-* Map string input to specific access responses based on role.
-
----
-
-# ⭐ Task 6: University Exam Results and Scholarship Eligibility System (Challenge)
+# ⭐ Task 4: University Exam Results and Scholarship Eligibility System (Challenge)
 
 ## 🔍 Overview
 This program analyzes a student's marks in three subjects to calculate *total marks, **percentage, **grade* (A–F), and *scholarship eligibility* (Merit / Regular / None).  
@@ -129,3 +83,48 @@ Scholarship: *Merit Scholarship*
 * Apply multi-level decision rules for grading based on percentages.
 * Implement conditional logic for complex scenarios (Failure, Merit Scholarship, Regular Scholarship).
 * Structure a large program with multiple dependent checks and decision termination logic.
+
+---
+
+# ⭐ Task 5: Loan Eligibility Checker (Nested if)
+
+## 🔍 Overview
+This program checks a person's eligibility for a loan based on two criteria: *age* (≥ 18) and *annual income* (≥ $30,000).  
+It uses a *nested if* structure to ensure the income check only occurs if the age requirement is met.
+
+## 🎯 Objective
+To practice using *nested if statements* where the second condition is dependent on the first condition being true.
+
+## ✔️ Output
+Enter age: 25  
+Enter annual income: 45000  
+Congratulations! You are eligible for a loan.
+
+## ✍️ Learning Outcomes
+* Use *nested if* logic for sequential, dependent checks.
+* Implement multi-level decision-making based on multiple criteria.
+* Understand the flow of control in nested conditional blocks.
+
+---
+
+# ⭐ Task 6: Role-Based Access System (Nested if & if-else if-else)
+
+## 🔍 Overview
+This program combines conditional structures:  
+* A nested structure for *Authentication* (username "admin," password "password123").  
+* After success, an if-else if-else ladder determines *Role-Based Access* ("Admin", "Guest", or No Access).
+
+## 🎯 Objective
+To combine *nested if* (for authentication) and the *if-else if-else* ladder (for role-based access) in one application.
+
+## ✔️ Output
+Enter username: admin  
+Enter password: password123  
+Enter role: Guest  
+Authentication Successful!  
+Limited Access
+
+## ✍️ Learning Outcomes
+* Combine different control structures (nested if and if-else if-else).
+* Handle multi-step security and permission logic.
+* Map string input to specific access responses based on role.
