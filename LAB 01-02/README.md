@@ -19,6 +19,8 @@ Understand how endl creates a new line
 
 Practice structured console output
 
+---
+
 # ⭐Task 2: Display Star Pattern
 ## 🔍Overview
 
@@ -42,6 +44,8 @@ Understand the use of loops or repeated print statements
 
 Practice formatting multi-line output
 
+---
+
 # ⭐Task 3: Display Text in Tabular Format
 ## 🔍Overview
 
@@ -62,6 +66,8 @@ Use to align text in columns
 Use for structured multi-line output
 
 Format tabular data in console applications
+
+---
 
 # ⭐Task 4: Displaying Quotes, File Paths, and New Lines
 ## 🔍Overview
