@@ -19,6 +19,8 @@ Use arithmetic operations
 
 Work with double datatypes
 
+---
+
 # ⭐ Task 2: Total Purchase Calculation
 ## 🔍 Overview
 
@@ -39,6 +41,8 @@ Use constants with const
 Perform arithmetic operations
 
 Format financial output clearly
+
+---
 
 # ⭐ Task 3: Average of Predefined Test Scores
 ## 🔍 Overview
