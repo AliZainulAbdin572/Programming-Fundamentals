@@ -1,2 +1,2 @@
-# Programming-Fundamentals
-This repositry is for my C++ Lab Tasks.
+# 💻Programming-Fundamentals
+## 📘This repositry is for my C++ Lab Tasks.
