@@ -1,4 +1,4 @@
-# 📘 CS-1101 Programming Fundamentals
+# 📘 Programming Fundamentals
 
 ---
 
